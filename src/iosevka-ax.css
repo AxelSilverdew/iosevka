@@ -1,0 +1,47 @@
+@font-face {
+  font-display: swap;
+  font-family: "Iosevka Aile Ax";
+  font-weight: 100 900;
+  font-style: normal;
+  src:
+    local("Iosevka Aile Ax"),
+    url("iosevka-aile-regular.woff2") format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Iosevka Aile Ax";
+  font-weight: 100 900;
+  font-style: italic;
+  src:
+    local("Iosevka Aile Ax"),
+    url("iosevka-aile-italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Iosevka Curly Ax";
+  font-weight: 100 900;
+  src:
+    local("Iosevka Curly Ax"),
+    url("iosevka-curly-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Iosevka Etoile Ax";
+  font-weight: 100 900;
+  font-style: normal;
+  src:
+    local("Iosevka Etoile Ax"),
+    url("iosevka-etoile-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Iosevka Etoile Ax";
+  font-weight: 100 900;
+  font-style: italic;
+  src:
+    local("Iosevka Etoile Ax"),
+    url("iosevka-etoile-italic.woff2") format("woff2");
+}
